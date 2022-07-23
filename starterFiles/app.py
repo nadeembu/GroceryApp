@@ -1,3 +1,8 @@
+"""
+YouTube course link
+https://www.youtube.com/watch?v=v3CSQkPJtAc&t=174s
+"""
+
 import sqlite3
 import random
 from flask import Flask, session, render_template, request, g
